@@ -1,6 +1,6 @@
 langgraph 
 langchain_community 
-langchain_openai
+langchain_groq
 langchain_core
-streamlit
+python-dotenv
 ipykernel
